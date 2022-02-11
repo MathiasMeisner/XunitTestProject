@@ -6,7 +6,7 @@ namespace XunitTestProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worllld!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
